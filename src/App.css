@@ -9,3 +9,32 @@ h1{
     text-align: center;
     margin-top: 2em;
 }
+
+.input{
+    padding: 0.5em;
+    width: 19em; 
+}
+
+.inputx{
+   text-align: center;
+   margin-top: 2em;
+}
+ 
+.btn {
+    position: relative;
+    left: 1em;
+    top : 0.25em;
+    background-color: #ddd;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    transition: 1s;
+}
+
+.btn:hover {
+    background-color:black;
+    color:orange;
+  }
+
+ 
